@@ -83,7 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : sergeygrigorievnotepad
+      short_name : grigorievnotepad
   #  livefyre :
   #    site_id : 123
   #  intensedebate :
