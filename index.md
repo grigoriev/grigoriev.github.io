@@ -1,11 +1,9 @@
 ---
 layout: page
 title: The programmer's notes
-tagline: Supporting tagline
+tagline: by Sergey Grigoriev
 ---
 {% include JB/setup %}
-
-[My CV](http://grigoriev.eu/) test.
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
