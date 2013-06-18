@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The programmer's notes
+title: Programmer's notes
 tagline: by Sergey Grigoriev
 ---
 {% include JB/setup %}
