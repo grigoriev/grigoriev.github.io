@@ -1,8 +1,8 @@
 ---
 layout: post
-category : linux
+category : github
 tagline: ""
-tags : [markdown, how-to, cheatsheet]
+tags : [github, markdown, how-to, cheatsheet]
 ---
 {% include JB/setup %}
 
