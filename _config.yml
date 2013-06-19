@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Sergey Grigoriev
-tagline: Notepad
+title : Notepad
+tagline: by Sergey Grigoriev
 author :
   name : Sergey Grigoriev
   email : s.grigoriev@gmail.com
