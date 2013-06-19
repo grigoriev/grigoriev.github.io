@@ -86,5 +86,7 @@ end
 
 https://gist.github.com/grigoriev/dc238eeb4ff61bb8ed16#file-test
 
-{% gist dc238eeb4ff61bb8ed16 test %}
+{% gist 5814513 %}
+
+https://gist.github.com/5814513.git
 
