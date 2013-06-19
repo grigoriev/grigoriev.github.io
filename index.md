@@ -60,7 +60,7 @@ abstract class AbstractPage {
 }
 {% endhighlight %}
 
-{% highlight java %}
+{% highlight java linenos %}
 public class Temporary implements Directions
 { 
 	public static void main(String [] args)
