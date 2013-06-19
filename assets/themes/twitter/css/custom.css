@@ -16,3 +16,9 @@ pre code {
   padding: 0;
   border: 0;
 }
+
+pre {
+  background: #333;
+  white-space: pre-wrap;
+  padding: 20px;
+}
