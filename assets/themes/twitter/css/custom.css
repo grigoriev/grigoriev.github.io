@@ -29,10 +29,8 @@ pre code {
 }
 
 pre {
-/*
   color: #fffafa;
   background: #333333;
-*/
   white-space: pre-wrap;
   padding: 20px;
 }
