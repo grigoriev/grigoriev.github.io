@@ -7,7 +7,6 @@ code {
   height: 16px;
   line-height: 16px;
   border: 1px solid #eee;
-  color: #ff0000;
 }
 
 pre code {
@@ -19,7 +18,8 @@ pre code {
 }
 
 pre {
-  background: #333;
+  color: #fffafa;
+  background: #333333;
   white-space: pre-wrap;
   padding: 20px;
 }
